@@ -503,7 +503,7 @@ b, strong {
   }
 
   .navbar-collapse {
-    background: #ffffff;
+    background: linear-gradient(90deg, hsl(0, 0%, 100%) 0%, hsl(0, 0%, 91%) 100%);
     text-align: center;
     padding-bottom: 20px;
   }
